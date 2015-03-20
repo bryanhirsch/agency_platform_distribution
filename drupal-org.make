@@ -67,7 +67,7 @@ projects[field_slideshow][subdir] = "contrib"
 projects[field_slideshow][version] = "1.82"
 
 projects[file_entity][subdir] = "contrib"
-projects[file_entity][version] = "2.0-beta1+18-dev"
+projects[file_entity][version] = "2.0-beta1"
 
 projects[insert_view][subdir] = "contrib"
 projects[insert_view][version] = "2.0"
@@ -85,10 +85,10 @@ projects[linkchecker][subdir] = "contrib"
 projects[linkchecker][version] = "1.2"
 
 projects[media][subdir] = "contrib"
-projects[media][version] = "2.0-alpha4+25-dev"
+projects[media][version] = "2.0-alpha4"
 
 projects[media_youtube][subdir] = "contrib"
-projects[media_youtube][version] = "2.0-rc4+18-dev"
+projects[media_youtube][version] = "2.0-rc4"
 
 projects[menu_block][subdir] = "contrib"
 projects[menu_block][version] = "2.5"
@@ -103,7 +103,7 @@ projects[quicktabs][subdir] = "contrib"
 projects[quicktabs][version] = "3.6"
 
 projects[remote_stream_wrapper][subdir] = "contrib"
-projects[remote_stream_wrapper][version] = "1.0-rc1+5-dev"
+projects[remote_stream_wrapper][version] = "1.0-rc1"
 
 projects[search404][subdir] = "contrib"
 projects[search404][version] = "1.3"
@@ -118,7 +118,7 @@ projects[views][subdir] = "contrib"
 projects[views][version] = "3.10"
 
 projects[wysiwyg][subdir] = "contrib"
-projects[wysiwyg][version] = "2.2+54-dev"
+projects[wysiwyg][version] = "2.2"
 
 ; Themes
 
